@@ -1,0 +1,9 @@
+Algoritmo3 Autobus
+Inicio
+1. Dinero inicial = 45 Bs
+2. Pasaje = 1.80 Bs
+3. Sumar la cantidad de veces que Mary se subio al micro hasta que se quede sin dinero
+4. Contar la cantidad de pasajes que se utilizo
+5. Mostrar la cantidad de pasajes
+Fin
+R. 25 pasajes
